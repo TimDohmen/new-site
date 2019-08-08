@@ -1,3 +1,14 @@
 .title-bar{
-  min-height: 20vh
+  min-height: 13vh; 
+  margin: auto;
+}
+
+.orange{
+background-color: coral;
+min-height: 75vh;
+color: white;
+}
+
+.bottle{
+ margin: auto
 }
