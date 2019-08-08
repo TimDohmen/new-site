@@ -12,3 +12,33 @@ color: white;
 .bottle{
  margin: auto
 }
+
+.info{
+  background-color: black;
+  color: white;
+  min-height: 60vh;
+
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  
+}
+.sectional{
+  background-color: white;
+  min-height: 50vh;
+}
+.info-text{
+  text-align: 
+
+}
+.card-white {
+  background: white;
+  padding: 30px;
+  box-shadow: 1px 1px 2px #e7e7e7;
+  border-radius: 4px;
+  margin: 20px 50px;
+}
