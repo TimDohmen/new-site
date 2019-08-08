@@ -42,3 +42,13 @@ color: white;
   border-radius: 4px;
   margin: 20px 50px;
 }
+
+.bot-bar{
+  background-color: black;
+  min-height: 15vh;
+}
+
+.bg-black{
+  background-color: black;
+  color: black;
+}
